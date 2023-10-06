@@ -1,5 +1,6 @@
 <h3 align="center">Android App</h3>
 <h1 align="center">Welcome To Kong-Fu-Java!</h1>
+<h3 align="center">by Dorin Dorsman AND Roman Michailov</h3>
 <p align="center"><img src="app/src/main/res/drawable/img_logo_white_round.png" height="700" width="700"></p>
 
 ## :information_source: About 
